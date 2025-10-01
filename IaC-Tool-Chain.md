@@ -3,12 +3,12 @@
 ## PowerShell 7
 
 Download & install from the following link:
-- https://github.com/PowerShell/PowerShell/releases/download/v7.4.5/PowerShell-7.4.5-win-x64.msi
+- [PowerShell Releases](https://github.com/PowerShell/PowerShell/releases)
 
 ## Microsoft Terminal
 
 Download & install from the following link:
-- https://github.com/microsoft/terminal/releases/download/v1.21.2701.0/Microsoft.WindowsTerminal_1.21.2701.0_x64.zip
+- [Windows Terminal Releases](https://github.com/microsoft/terminal/releases)
 
 ## Windows Subsystem for Linux (WSL): Ubuntu
 
@@ -43,9 +43,6 @@ Or directly using the following command:
 
 Download & install from the following link:
 - [Install the Azure CLI for Windows | Microsoft Learn](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows)
-
-Or directly using the following link:
-- https://azcliprod.blob.core.windows.net/msi/azure-cli-2.64.0-x64.msi
 
 ### Azure CLI - Commands
 
@@ -134,6 +131,11 @@ scoop install git
 brew install git
 ```
 
+## GitHub Desktop
+
+Download & install from the following link:
+- https://desktop.github.com/download/
+
 ## OpenTofu
 
 **On Windows:** Install using the following command:
@@ -150,9 +152,6 @@ brew install opentofu
 
 Download & install from the following link:
 - [Download Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/download)
-
-Or directly from:
-- https://vscode.download.prss.microsoft.com/dbazure/download/stable/d78a74bcdfad14d5d3b1b782f87255d802b57511/VSCodeUserSetup-x64-1.94.0.exe
 
 ## Cursor
 
