@@ -173,6 +173,11 @@ Download & install from the following link:
 - Create an account in ChatGPT and use it to get code samples and command line help
 - Creating an account allows you to go back to your history and allows ChatGPT to give you results based on your previous search if you choose to.
 
+## Claude Code
+
+Download & install from the following link:
+- [Claude Code - Anthropic](https://claude.com/claude-code)
+
 ## Configuration
 
 ### AZ CLI
